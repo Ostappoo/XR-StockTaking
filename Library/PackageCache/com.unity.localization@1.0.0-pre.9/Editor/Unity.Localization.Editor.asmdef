@@ -1,0 +1,48 @@
+{
+    "name": "Unity.Localization.Editor",
+    "references": [
+        "Unity.Localization",
+        "Unity.Addressables.Editor",
+        "Unity.Addressables",
+        "Unity.InternalAPIEditorBridge.013",
+        "Unity.ResourceManager",
+        "Unity.TextMeshPro",
+        "Unity.ugui",
+        "Unity.Nuget.NewtonsoftJson.EditorTests",
+        "Unity.DeviceSimulator.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unity.Localization.ThirdParty.Editor.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ugui",
+            "expression": "1.0.0",
+            "define": "PACKAGE_UGUI"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "1.0.0",
+            "define": "PACKAGE_TMP"
+        },
+        {
+            "name": "com.unity.device-simulator",
+            "expression": "1.0.0",
+            "define": "PACKAGE_DEVICE_SIMULATOR "
+        },
+        {
+            "name": "com.unity.modules.audio",
+            "expression": "1.0.0",
+            "define": "MODULE_AUDIO"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,80 @@
+[api-updater (non-obsolete-error-filter)] 30.06.2021 15:21:01 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 525,933ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 461ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.07.2021 4:47:17 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 790,928ms
+moved types parse time: 102ms
+candidates parse time : 21ms
+C# parse time         : 427ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.07.2021 4:49:00 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 431,668ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 529ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.07.2021 5:07:12 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 381,684ms
+moved types parse time: 57ms
+candidates parse time : 2ms
+C# parse time         : 409ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.07.2021 5:09:33 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 314,992ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 379ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.07.2021 5:13:11 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 378,262ms
+moved types parse time: 56ms
+candidates parse time : 3ms
+C# parse time         : 392ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05.07.2021 0:07:17 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 590,952ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 446ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05.07.2021 18:17:24 : Starting /Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 780,415ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 460ms
+candidates check time : 40ms
+console write time    : 1ms
+

@@ -1,0 +1,176 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp /Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/Data/Metadata/global-metadata.dat",
+      "Action": "\"/Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=\"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=\"/Volumes/Elements/All files/Unity/Unity Versions/2020.3.12f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser\" --directory=\"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput\"",
+      "Inputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.Runtime.Serialization.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.Xml.Linq.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/System.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.Addressables.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.Localization.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.ResourceManager.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Temp/StagingArea/Data/Managed/zxing.unity.dll"
+      ],
+      "Outputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/Data/Metadata/global-metadata.dat"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp",
+      "Action": "cp \"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" \"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp\" ",
+      "Inputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File /Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp",
+      "Action": "cp \"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" \"/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp\" ",
+      "Inputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "/Volumes/Elements/All files/Unity/Unity Projects/XR StockTaking/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../../../../Users/ostappo/Library"
+    },
+    {
+      "File": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
